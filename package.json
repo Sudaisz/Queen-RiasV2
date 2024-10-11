@@ -1,7 +1,7 @@
 {
-    "name": "FallXdz",
-    "version": "14.0.0",
-    "description": "Whatsapp Bot By FallXdz",
+    "name": "rias-md",
+    "version": "2.0.0",
+    "description": "WhatsApp Bot Made By Toxxic Md",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Lorenzxz",
+    "author": "Toxic1239",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
